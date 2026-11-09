@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "region": "wob-bs",
-  "build": "20261102",
-  "file": "region-wob-bs-20261102.pmtiles",
-  "bytes": 105929022,
-  "sha256": "29b6e463ba8cae806e10a29bc6d9c4d8a591fb368c01d6f7b431800627e21a71",
-  "url": "https://github.com/greygrey2000/bike-navi-maps/releases/download/map-20261102/region-wob-bs-20261102.pmtiles",
+  "build": "20261109",
+  "file": "region-wob-bs-20261109.pmtiles",
+  "bytes": 105975012,
+  "sha256": "f4b0a89b25a84a752a65c9b40cb4cb45ed22d46acc2dbfd131b75d9963be9a72",
+  "url": "https://github.com/greygrey2000/bike-navi-maps/releases/download/map-20261109/region-wob-bs-20261109.pmtiles",
   "bbox": [
     9.9,
     51.95,
@@ -13,6 +13,6 @@
     52.75
   ],
   "maxzoom": 15,
-  "source": "https://build.protomaps.com/20261102.pmtiles",
+  "source": "https://build.protomaps.com/20261109.pmtiles",
   "attribution": "\u00a9 OpenStreetMap contributors (ODbL), Protomaps"
 }
